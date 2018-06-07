@@ -1,3 +1,10 @@
+
+To Compile: 
+run: 
+python3 image_emotion_gender_demo.py../images/joe-biden.jpg
+
+
+
 # Face classification and detection from the [B-IT-BOTS robotics team](https://mas-group.inf.h-brs.de/?page_id=622).
 Real-time face detection and emotion/gender classification using fer2013/IMDB datasets with a keras CNN model and openCV.
 * IMDB gender classification test accuracy: 96%.
